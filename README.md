@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noormughal-lab&label=Profile%20views&color=0e75b6&style=flat" alt="noormughal-lab" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/noormughal-lab](https://github.com/noormughal-lab)
+
 - 📝 I regularly write articles on Digital Marketing [https://vibesviral.blogspot.com/](https://vibesviral.blogspot.com/)
 
-- 📫 How to reach me **noormughal2823@gmail.com**
+- 📫 How to reach me **https://linktr.ee/noor_mughal97**
 
 - ⚡ Fun fact **People think that I am a Rude Person**
 
